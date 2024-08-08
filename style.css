@@ -1,0 +1,48 @@
+body
+{
+    font-family: Roboto;
+   
+}
+h1
+{
+    font-size: small;
+    text-align: center;
+    font-weight: bold;
+}
+table td
+{
+    text-align: center;
+    border: 1px solid rgb(146, 146, 146);
+    border-bottom: 1px solid rgb(146, 146, 146);
+    padding: 20px;
+   
+}
+table
+{
+    border-collapse: collapse;
+    margin: 36px auto;
+    font-size: medium;
+    border-top-left-radius: 5px;
+}
+.s td
+{
+    font-weight: bold;
+
+}
+tr{
+    background-color: lightblue;
+}
+th{
+    text-align: center;
+    border: 1px solid rgb(146, 146, 146);
+    border-bottom: 1px solid rgb(146, 146, 146);
+    padding: 20px;
+    font-weight: bold;
+ 
+}
+thead td:nth-child(1)
+{
+    
+    font-weight: bold;
+    -webkit-text-fill-color: white;
+}
